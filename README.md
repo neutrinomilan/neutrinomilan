@@ -3,7 +3,7 @@
 👋 Hi there! I’m Milan — building things that make life smarter (and people lazier 😴).<br>
 💡 Exploring Machine Learning, AI, and Web Development to turn wild ideas into working code.<br>
 🔍 Always curious. Always creating.<br>
-💬 Let’s connect & build something awesome together!
+🚀 Whether it’s code reviews, collabs, or just a chat — I’m open for anything. Let’s connect!
 </p>
 
 
