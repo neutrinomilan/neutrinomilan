@@ -1,0 +1,47 @@
+name: Update Quotes in README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # runs every 12 hours
+  workflow_dispatch:        # allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate new quote
+        run: |
+          quotes=("Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder."
+                  "If you don't take risks, you can't create a future."
+                  "People, who can't throw something important away, can never hope to change anything."
+                  "There's no shame in falling down! The true shame is to not stand up again!"
+                  "The strong should aid and protect the weak. Then, the weak will become strong, and they in turn will aid and protect those weaker than them."
+                  "Hard work is worthless for those that don’t believe in themselves."
+                  "The important thing is not how long you live. It’s what you accomplish with your life."
+                  "It’s not dying that frightens us. It’s living without ever having done our best."
+                  "I rest, I rust."
+                  "Any pain I go through, any suffering I go through — if it does not kill me, it will make me stronger.")
+          
+          random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          echo "QUOTE=$random_quote" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|<!--QUOTE_PLACEHOLDER-->|$QUOTE|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📝 Update quote: $QUOTE" || echo "No changes to commit"
+          git push
