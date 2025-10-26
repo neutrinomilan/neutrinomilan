@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p style="line-height:1.2; margin:0; font-size: 0.6em;">
-👋 Hi there! I’m Milan Singhi — building things that make life smarter (and people lazier 😴).<br>
+👋 Hi folks! I’m Milan Singhi — building things that make life smarter (and people lazier 😴).<br>
 💡 Exploring Machine Learning, AI, and Web Development to turn wild ideas into working code.<br>
 🔍 Always curious. Always creating.<br>
 🚀 Whether it’s code reviews, collabs, or just a chat — I’m open for anything. Let’s connect!
