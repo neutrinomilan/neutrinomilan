@@ -13,7 +13,7 @@
 > <!--QUOTE_PLACEHOLDER-->
 
 <!--START_QUOTE-->
-> "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 💥
+> "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 
 <!--END_QUOTE-->
 
 # 💻 Tech Stack:
