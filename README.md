@@ -1,11 +1,14 @@
 # 💫 About Me:
-👋 Hi there! I’m Milan — building things that make life smarter (and people lazier 😴).<br>  
-💡 Exploring Machine Learning, AI, and Web Development to turn wild ideas into working code.<br>  
-🔍 Always curious. Always creating.<br>  
+<p style="line-height:1.2; margin:0; font-size: 0.6em;">
+👋 Hi there! I’m Milan — building things that make life smarter (and people lazier 😴).<br>
+💡 Exploring Machine Learning, AI, and Web Development to turn wild ideas into working code.<br>
+🔍 Always curious. Always creating.<br>
 💬 Let’s connect & build something awesome together!
+</p>
 
 
-## 🌐 Socials:
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milan-singhi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansinghi0102@gmail.com) 
 
 ### ✍️ Daily Quote
@@ -15,7 +18,7 @@
 > "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 
 <!--END_QUOTE-->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,7 +56,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neutrinomilan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=neutrinomilan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomilan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
