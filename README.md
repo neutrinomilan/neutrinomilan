@@ -9,14 +9,14 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milan-singhi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansinghi0102@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-singhi)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansinghi0102@gmail.com) 
 
 ### ✍️ Daily Quote
 > <!--QUOTE_PLACEHOLDER-->
 
-<!--START_QUOTE-->
-> "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 
-<!--END_QUOTE-->
+f"<!--START_QUOTE-->\n> _\"{quote}\"_ 💬\n<!--END_QUOTE-->"
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
