@@ -36,7 +36,8 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|<!--QUOTE_PLACEHOLDER-->|$QUOTE|g" README.md
+          sed -i -E "s|<!--START_QUOTE-->.*<!--END_QUOTE-->|<!--START_QUOTE-->\n> \"$QUOTE\" 💬\n<!--END_QUOTE-->|g" README.md
+
 
       - name: Commit changes
         run: |
