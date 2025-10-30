@@ -2,7 +2,7 @@ name: Update Quote in README
 
 on:
   schedule:
-    - cron: "12 08 * * *"   # ✅ every day at 00:00 UTC
+    - cron: "38 07 * * *"   # ✅ every day at 00:00 UTC
   workflow_dispatch:      # ✅ allow manual trigger
 
 permissions:
