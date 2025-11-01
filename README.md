@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder." 💬
+> "Hard work is worthless for those that don’t believe in themselves. — Naruto Uzumaki" 💬
 <!--END_QUOTE-->
 
 
