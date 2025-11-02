@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Hard work is worthless for those that don’t believe in themselves. — Naruto Uzumaki" 💬
+> "I rest, I rust." 💬
 <!--END_QUOTE-->
 
 
