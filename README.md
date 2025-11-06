@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "There's no shame in falling down! The true shame is to not stand up again!" 💬
+> "I rest, I rust." 💬
 <!--END_QUOTE-->
 
 
