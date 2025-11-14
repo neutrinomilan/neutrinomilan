@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 💬
+> "It’s not dying that frightens us. It’s living without ever having done our best." 💬
 <!--END_QUOTE-->
 
 
