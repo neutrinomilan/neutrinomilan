@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "The important thing is not how long you live. It’s what you accomplish with your life." 💬
+> "There's no shame in falling down! The true shame is to not stand up again!" 💬
 <!--END_QUOTE-->
 
 
