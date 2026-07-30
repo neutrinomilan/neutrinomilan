@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "People, who can't throw something important away, can never hope to change anything." 💬
+> "I rest, I rust." 💬
 <!--END_QUOTE-->
 
 
