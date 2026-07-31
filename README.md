@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "I rest, I rust." 💬
+> "If you don't take risks, you can't create a future." 💬
 <!--END_QUOTE-->
 
 
