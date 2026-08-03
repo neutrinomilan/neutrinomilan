@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "There's no shame in falling down! The true shame is to not stand up again!" 💬
+> "People, who can't throw something important away, can never hope to change anything." 💬
 <!--END_QUOTE-->
 
 
