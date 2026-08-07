@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder." 💬
+> "There's no shame in falling down! The true shame is to not stand up again!" 💬
 <!--END_QUOTE-->
 
 
