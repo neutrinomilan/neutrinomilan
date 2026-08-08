@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "There's no shame in falling down! The true shame is to not stand up again!" 💬
+> "Hard work is worthless for those that don’t believe in themselves. — Naruto Uzumaki" 💬
 <!--END_QUOTE-->
 
 
