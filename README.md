@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "There's no shame in falling down! The true shame is to not stand up again!" 💬
+> "It’s not dying that frightens us. It’s living without ever having done our best." 💬
 <!--END_QUOTE-->
 
 
