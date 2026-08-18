@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder." 💬
+> "The strong should aid and protect the weak. Then, the weak will become strong, and they in turn will aid and protect those weaker than them. — Tanjiro Kamado" 💬
 <!--END_QUOTE-->
 
 
