@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Hard work is worthless for those that don’t believe in themselves. — Naruto Uzumaki" 💬
+> "The strong should aid and protect the weak. Then, the weak will become strong, and they in turn will aid and protect those weaker than them. — Tanjiro Kamado" 💬
 <!--END_QUOTE-->
 
 
