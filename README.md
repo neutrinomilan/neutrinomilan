@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder." 💬
+> "The important thing is not how long you live. It’s what you accomplish with your life." 💬
 <!--END_QUOTE-->
 
 
