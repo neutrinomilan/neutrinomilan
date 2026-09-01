@@ -14,7 +14,7 @@
 
 ### ✍️ Daily Quote
 <!--START_QUOTE-->
-> "The important thing is not how long you live. It’s what you accomplish with your life." 💬
+> "Any pain I go through, any suffering I go through — if it doesn’t kill me, it will make me stronger." 💬
 <!--END_QUOTE-->
 
 
